@@ -9,4 +9,3 @@
 - Discord: I'm Dika#1239
 - Youtube: Resi Mahardika
 - Instagram: mahardika_resi
-=====================================
