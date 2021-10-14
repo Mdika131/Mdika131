@@ -10,6 +10,5 @@
 - Youtube: Resi Mahardika
 - Instagram: mahardika_resi
 
-- 🏆 Stats
-![Mdika131 GitHub stats](https://github-readme-stats.vercel.app/api?username=Mdika131&show_icons=true)
+- 🏆 Stats ![Mdika131 GitHub stats](https://github-readme-stats.vercel.app/api?username=Mdika131&show_icons=true)
 
