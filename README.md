@@ -10,3 +10,4 @@
 - Youtube: Resi Mahardika
 - Instagram: mahardika_resi
 
+[![Mdika131 GitHub stats](https://github-readme-stats.vercel.app/api?username=Mdika131)](https://github.com/Mdika131/github-readme-stats)
