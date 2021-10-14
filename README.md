@@ -2,7 +2,7 @@
 - 👀 I’m interested in Discord Bot
 - 🌱 I’m currently learning Java Script
 - 💞️ I’m looking to collaborate make Discord Bot
-- 📫 How to reach me just be a nice person 
+- 📫 How to reach me just be a nice person and always wan't help me
 
 =====================================
 - if you wan't to contact me:
@@ -10,6 +10,7 @@
 - Youtube: Resi Mahardika
 - Instagram: mahardika_resi
 
+=====================================
 - 🏆 Stats  
 
 
