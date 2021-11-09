@@ -1,16 +1,16 @@
 - 👋 Hi, I’m @Mdika131 you can call me Dika
-- 👀 I’m interested in Discord Bot
-- 🌱 I’m currently learning Java Script
+- 👀 I’m interested in Discord Bot and San Andreas Multiplayer
+- 🌱 I’m currently learning Java Script and Lua
 - 💞️ I’m looking to collaborate make Discord Bot
 - 📫 How to reach me just be a nice person and always wan't help me
 
-=====================================
+# 📱 Contact Me
 - if you wan't to contact me:
 - Discord: I'm Dika#1239
 - Youtube: Resi Mahardika
 - Instagram: mahardika_resi
 
-===Stats===
+# 🏆 Stats
 
 
 
@@ -20,7 +20,7 @@
 
 
 
-===Most Used Lang===
+# Most Used Language
 
 
 
