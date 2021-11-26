@@ -2,7 +2,6 @@
 - 👀 I’m interested in Discord Bot and San Andreas Multiplayer
 - 🌱 I’m currently learning Java Script and Lua
 - 💞️ I’m looking to collaborate make Discord Bot
-- 📫 How to reach me just be a nice person and always wan't help me
 
 # 📱 Contact Me
 - if you wan't to contact me:
