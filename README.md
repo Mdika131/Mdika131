@@ -5,7 +5,7 @@
 
 # 📱 Contact Me
 - if you wan't to contact me:
-- Discord: I'm Dika#1239
+- Discord: Soviet Cat#1239
 - Youtube: Resi Mahardika
 - Instagram: mahardika_resi
 
