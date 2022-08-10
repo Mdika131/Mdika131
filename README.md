@@ -1,11 +1,8 @@
 - 👋 Hi, I’m @Mdika131 you can call me Dika
-- 👀 I’m interested in Discord Bot and San Andreas Multiplayer
-- 🌱 I’m currently learning Java Script and Lua
-- 💞️ I’m looking to collaborate make Discord Bot
 
 # 📱 Contact Me
 - if you wan't to contact me:
-- Discord: Soviet Cat#1239
+- Discord: Raptor#4500
 - Youtube: Resi Mahardika
 - Instagram: mahardika_resi
 
