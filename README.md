@@ -2,7 +2,7 @@
 
 # 📱 Contact Me
 - if you wan't to contact me:
-- Discord: Raptor#4500
+- Discord: flyingraptorz
 - Youtube: Three Triangle 
 
 # 🏆 Stats
