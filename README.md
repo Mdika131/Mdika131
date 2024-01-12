@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mdika131 you can call me Dika
+- 👋 Hi, I’m @Mdika131 also known as FlyingRaptor, and Three Triangle
 
 # 📱 Contact Me
 - if you wan't to contact me:
