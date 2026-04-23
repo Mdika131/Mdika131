@@ -3,7 +3,8 @@
 # 📱 Contact Me
 - if you want to contact me:
 - Discord: flyingraptorz
-- Youtube: Three Triangle 
+- Youtube: Three Triangle
+- Instagram: 3_3angle 
 
 # 🏆 Stats
 
