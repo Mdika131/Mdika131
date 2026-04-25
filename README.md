@@ -11,7 +11,7 @@
 
 
  
-![Mdika131 GitHub stats](https://github-readme-stats.vercel.app/api?username=mdika131&show_icons=true&theme=synthwave)
+![Mdika131 GitHub stats](https://github-readme-stats.vercel.app/api?username=mdika131&show_icons=false&theme=synthwave)
 
 
 
