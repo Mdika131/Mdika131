@@ -20,4 +20,4 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdika131&layout=donut&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdika131&layout=donut&theme=synthwave)](https://github.com/mdika131/github-readme-stats)
