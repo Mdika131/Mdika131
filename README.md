@@ -11,7 +11,7 @@
 
 
  
-[![Mdika131's GitHub stats](https://github-stats-extended.vercel.app/api?username=mdika131)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Mdika131&custom_title=Mdika131%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=synthwave)](https://github-stats-extended.vercel.app/api?username=Mdika131&custom_title=Mdika131%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=synthwave)
 
 
 
@@ -20,4 +20,4 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdika131&layout=donut&theme=synthwave&cache_seconds=30)](https://github.com/mdika131/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Mdika131&layout=donut&langs_count=5&theme=synthwave)](https://github-stats-extended.vercel.app/api/top-langs?username=Mdika131&layout=donut&langs_count=5&theme=synthwave)
