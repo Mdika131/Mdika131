@@ -11,7 +11,7 @@
 
 
  
-![Mdika131 GitHub stats](https://github-readme-stats.vercel.app/api?username=mdika131&show_icons=false&theme=synthwave&cache_seconds=30)
+[![Mdika131's GitHub stats](https://github-stats-extended.vercel.app/api?username=mdika131)](https://github.com/stats-organization/github-stats-extended)
 
 
 
